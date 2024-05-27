@@ -1,0 +1,9 @@
+drop table Ingredients;
+drop table Product;
+drop table Providers;
+drop table MealOrder;
+drop table WorkerOrder;
+drop table Orders;
+drop table Customers;
+drop table Meal;
+drop table Workers;
